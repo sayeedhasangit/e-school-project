@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: .8rem;
+    line-height: 1.2rem;
+}
+.logo{
+    width: 170px;
+}
+header{
+    background-color: #F0FFF0;
+    color: #000000;
+}
+.top-area{
+    background-color: #F0FFF0;
+    color: #000000;
+}
+a{
+    color: #000000 !important;
+}
+.sign-in-btn{
+    background-color: #21B573;
+    border-radius: 20px !important;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.sign-in-btn a{
+    color: white !important;
+}
+.header-big-text{
+    font-weight: bolder;
+}
+.header-section-btn{
+    background-color: #21B573;
+    border: none;
+    border-radius: 20px !important;
+    padding: 10px 30px 10px 30px;
+    margin-top: 20px;
+}
+.text-secondary{
+    margin-top: 18px;
+}
+.header-section-btn a{
+    color: white !important;
+    font-size: medium;
+}
+.aw-header-content{
+    padding: 50px;
+    padding: 50px 50px 50px 0px;
+    margin-top: 35px;
+}
+.img-size{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.category-first-icon{
+    width: 49px;
+}
+.category-icon{
+    width: 60px;
+}
+.category-last-icon{
+    width: 58px;
+}
+.category-item{
+    background-color: #F0FFF0;
+    border-radius: 10px; 
+}
+.card{
+    border: none !important;
+}
+.card-text{
+    color: #6c757d;
+}
+.card-content{
+    margin-top: 34px;
+    margin-bottom: 45px;
+}
+.card-img{
+   margin-top: 45px; 
+}
+.px-5{
+    padding-right: 3rem !important;
+    padding-left: 6rem !important;
+}
+.item-card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.category-item:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.cardItemBar-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.card-title-style{
+    color: #413960;
+    font-weight: 600;
+    /* font-size: 24px; */
+}
+.onlineCourse-card-text-style{
+    font-weight: normal;
+    color: #585859;
+}
+.onlineCourse-card{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px !important;
+}
+.card-img-top-style{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+}
+.buy-btn-style{
+    background: #21B573;
+    border-radius: 33px;
+    color: #ffffff !important;
+    border: none;
+    padding: 8px 28px;
+    font-weight: normal;
+    font-size: 13px;
+    margin-bottom: 33px;
+}
+.card-deck{
+    margin-bottom: 40px;
+}
+.testimonial-title h2{
+    margin-top: 80px;
+}
+.text-left{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+}
+.man-img{
+    width: 138px;
+    height: 138px;
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.testimonialContent{
+    margin-top: 50px;
+}
+.testimonial-section{
+    margin-bottom: 80px;
+}
+.footerSection{
+    background: #282531;
+}
+.footerSection-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.footer{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    background-color: #282531;
+    color: #CDCDCD;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.footerContent{
+    margin-top: 50px;
+    margin-bottom: 55px;
+}
+.aw-list{
+    font-family: Poppins;
+    font-style: normal;
+    line-height: 30px;
+    color: #FFFFFF !important;
+}
+.aw-list-title{
+    color: white;
+}
+.category-span{
+    font-size: 12px;
+    font-weight: 400;
+}
